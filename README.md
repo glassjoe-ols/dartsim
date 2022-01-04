@@ -15,4 +15,6 @@ Just a simple darts match simulator I coded in my off-time for my own weird plea
 
 i will forget all this
 
+note: currently all the data is in test.py, not index.py. Will be the first thing i start fixing.
+
 glassjoe-ols
