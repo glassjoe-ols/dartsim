@@ -1,32 +1,32 @@
-Justin Pipe
-Joseph Bbosa
-Steve Hine
-Boris Koltsov
-Tito Cox
-Joe Cullen
-Devon Peterson
 Michael van Gerwen
-Rie Hoshino
-Scott Kirchner
-Wes Newton
-Laurence Ryder
+Gary Anderson
 Mark Webster
-Rob Szabo
-Dave Chisnall
-Phil Taylor
-Benjamin Daimoi
+Gerwyn Price
 Simon Whitlock
-Steve West
-John Bowles
-Jelle Klaasen
-Sascha Stein
-Christian Perez
-Geert de Vos
-John Weber
-Mark McGrath
+Max Hopp
 Rowby-John Rodriguez
-Jamie Caven
-Wayne Jones
+Sascha Stein
+Mensur Suljovic
 Steve Beaton
-Floyd Stout
-Aleksandr Oreshkin
+Paul Nicholson
+Raymond van Barneveld
+James Wade
+Boris Koltsov
+Daryl Gurney
+Robert Thornton
+Benito van de Pas
+Vincent van der Voort
+Jamie Lewis
+Phil Taylor
+John Weber
+Christian Perez
+Justin Pipe
+Ronny Huybrechts
+Brendan Dolan
+Adrian Lewis
+Dan Olsen
+Nolan Arendse
+Dave Chisnall
+Cristo Reyes
+Keegan Brown
+Devon Peterson
